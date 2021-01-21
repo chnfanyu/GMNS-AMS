@@ -21,7 +21,7 @@ Step 5: consolidate complex intersections based on the modified complex intersec
 Step 6: output the network with intersections consolidated
 """
 
-net = og.getNetFromOSMFile(r'map.osm', network_type=('walk'),\
+net = og.getNetFromOSMFile(r'map.osm', network_type=('bike'),\
                            POIs=True,default_lanes=True,default_speed=True)
 og.connectPOIWithNet(net)
 og.outputNetToCSV(net)
