@@ -6,7 +6,7 @@
 
 **AMS**:  The objective of the [AMS](https://www.fhwa.dot.gov/publications/research/operations/13036/004.cfm) data hub is to define a prototype of operations and associated requirements that will allow for the effective integration of analysis modeling and simulation tools across various domains and scales. Easily exchange information and data at both the input and output levels.
 
-The [ASU Trans + AI Lab](https://github.com/asu-trans-ai-lab) devotes to developing a better AMS data hub framework and a set of integrated open-source transportation software. The objective of the repository is to aggregate the developed software as a systematic modeling flow and demonstrate its successive steps, so call “7-steps modeling”. However, the modeling flow is not limited to seven steps. The prospective software under development are CGLite and Data2VDF for the traffic demand and supply calibration. The repository will keep updating constantly. 
+The [ASU Trans + AI Lab](https://github.com/asu-trans-ai-lab) devotes to developing a better AMS data hub framework and a set of integrated open-source transportation tools. The objective of the repository is to aggregate the developed software as a systematic modeling flow and demonstrate its successive steps, so call “7-steps modeling”. However, the modeling flow is not limited to seven steps. The prospective software under development are CGLite and Data2VDF for the traffic demand and supply calibration. The repository will keep updating constantly. 
 
 
 The continuous flow of GMNS-AMS modeling:
@@ -71,7 +71,7 @@ The visualization of zone-to-zone demand volume over the University of Washingto
 ![demand](https://github.com/chnfanyu/GMNS-AMS/blob/main/img/Grid2demand_Demand%20Map.PNG)
 
 ## Step 5: Signal2timing	
-Quick Estimation Method (QEM)based implementation, GMNS based traffic signal API for multi-resolution modeling. This tool aims to automate the process of optimizing movement-based, phase-based signal control strategy and provide the interfaces for AMS modeling. 
+***Quick Estimation Method (QEM)based implementation, GMNS based traffic signal API for multi-resolution modeling. This tool aims to automate the process of optimizing movement-based, phase-based signal control strategy and provide the interfaces for AMS modeling. ***
 
 The software package is still in development. The output is movement.csv and can be used in Sigma-X: an Excel-based Quick Estimation Method
 
@@ -80,7 +80,7 @@ The software package is still in development. The output is movement.csv and can
 
 A mesoscopic DTA engine called DTALite can be run directly within NeXTA. DTALite is a mesoscopic simulation-assignment framework that uses a computationally simple but theoretically rigorous traffic queuing model in its simulation engine. The DTALite can be executed after obtaining the demand file from grid2demand.
 
-The ASU Trans+AI Lab collaborates with the development team of A/B Street closely for adapting the proposed AMS data hub framework and improve the software efficiency.
+The ASU Trans+AI Lab collaborates with the development team of A/B Street closely for ***adapting the proposed AMS data hub framework and improve the software efficiency.***
 
 A/B Street: 
 ![evaluating_impacts](https://github.com/chnfanyu/abstreet/blob/master/book/evaluating_impacts.gif)
