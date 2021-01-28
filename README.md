@@ -69,8 +69,9 @@ The visualization of zone-to-zone demand volume over the University of Washingto
 ![demand](https://github.com/chnfanyu/GMNS-AMS/blob/main/img/Grid2demand_Demand%20Map.PNG)
 
 ## Step 5: Signal2timing	
-Quick Estimation Method (QEM)based implementation, GMNS based traffic signal API for multi-resolution modeling. This tool aims to automate the process of optimizing movement-based, phase-based signal control strategy and provide the interfaces for AMS modeling. The software package is still in development. 
-The output is movement.csv and can be used in Sigma-X: an Excel-based Quick Estimation Method
+Quick Estimation Method (QEM)based implementation, GMNS based traffic signal API for multi-resolution modeling. This tool aims to automate the process of optimizing movement-based, phase-based signal control strategy and provide the interfaces for AMS modeling. 
+
+The software package is still in development. The output is movement.csv and can be used in Sigma-X: an Excel-based Quick Estimation Method
 
 
 ## Step 6: AMS Simulation
