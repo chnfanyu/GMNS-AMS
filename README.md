@@ -4,7 +4,7 @@
 
 **GMNS**: The General Modeling Network Specification ([GMNS](https://github.com/zephyr-data-specs/GMNS)) defines a common human and machine-readable format for sharing routable road network files. It is designed to be used in multi-modal static and dynamic transportation planning and operations models.
 
-**AMS**:  [AMS](https://www.fhwa.dot.gov/publications/research/operations/13036/004.cfm)
+**AMS**:  The objective of the [AMS](https://www.fhwa.dot.gov/publications/research/operations/13036/004.cfm) data hub is to define a prototype of operations and associated requirements that will allow for the effective integration of analysis modeling and simulation tools across various domains and scales. Easily exchange information and data at both the input and output levels.
 
 
 The continuous flow of data in the GMNS-AMS modeling procedure:
