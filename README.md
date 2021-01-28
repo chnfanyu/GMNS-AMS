@@ -6,6 +6,7 @@
 
 **AMS**:  The objective of the [AMS](https://www.fhwa.dot.gov/publications/research/operations/13036/004.cfm) data hub is to define a prototype of operations and associated requirements that will allow for the effective integration of analysis modeling and simulation tools across various domains and scales. Easily exchange information and data at both the input and output levels.
 
+The [ASU Trans + AI Lab](https://github.com/asu-trans-ai-lab) devotes to developing a better AMS data hub framework and a set of integrated open-source transportation software. 
 
 The continuous flow of data in the GMNS-AMS modeling:
 
