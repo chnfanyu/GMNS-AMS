@@ -49,8 +49,8 @@ The analysis tools of different resolution networks are as follows:
 
 The difference between macro and meso network: 
 
-<img src="https://github.com/chnfanyu/GMNS-AMS/blob/main/img/Mesco.PNG" width="400" height="300">
-<img src="https://github.com/chnfanyu/GMNS-AMS/blob/main/img/Macro.PNG" width="400" height="300">
+<img src="https://github.com/chnfanyu/GMNS-AMS/blob/main/img/Mesco.PNG" width="450" height="350"> Mesco
+<img src="https://github.com/chnfanyu/GMNS-AMS/blob/main/img/Macro.PNG" width="450" height="350"> Marco
 
 
 ## Step 4: Grid2demand 
