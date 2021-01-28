@@ -65,7 +65,7 @@ The four separate steps are described below.
 The grid2demand is the succeeding step of OSM2GMNS, which generates zone-to-zone travel demand based on alphanumeric grid zones. Users can obtain the demand file within a few lines of python code
 
 
-The zone-to-zone demand volume
+The visualization of zone-to-zone demand volume over the University of Washington:
 ![demand](https://github.com/chnfanyu/GMNS-AMS/blob/main/img/Grid2demand_Demand%20Map.PNG)
 
 ## Step 5: Signal2timing	
