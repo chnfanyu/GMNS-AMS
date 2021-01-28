@@ -1,6 +1,6 @@
 # GMNS-AMS Traffic Network Modeling 
 
-
+## Introduction 
 
 
 The continuous flow of data in the GMNS-AMS modeling procedure:
@@ -19,7 +19,7 @@ Step | Description | Software | Input Files | Output Files
 
 
 
-## Step 0:   Download .osm file 
+## Step 0:   Download Map File 
 Open Street Map (OSM) provides a free editable map of the world, which accords with the ASU team's objective of developing open-source tools for traffic network modeling.
 The open street website allows adjusting and directly downloading the OSM data file. The data file is the basic input for the GMNS-AMS modeling flow.
 
@@ -67,13 +67,13 @@ Quick Estimation Method (QEM)based implementation, GMNS based traffic signal API
 The output is movement.csv and can be used in Sigma-X: an Excel-based Quick Estimation Method
 
 
-## Step 6: AMS simulation
+## Step 6: AMS Simulation
 
 A mesoscopic DTA engine called DTALite can be run directly within NeXTA. DTALite is a mesoscopic simulation-assignment framework that uses a computationally simple but theoretically rigorous traffic queuing model in its simulation engine. The DTALite can be executed after obtaining the demand file from grid2demand.
 
 The ASU Trans+AI Lab collaborates with the development team of A/B Street closely for adapting the proposed AMS data hub framework and improve the software efficiency.
 ![evaluating_impacts](https://github.com/chnfanyu/abstreet/blob/master/book/evaluating_impacts.gif)
 
-## Step 7: Data visualization.
+## Step 7: Data Visualization.
 Visualization is an increasingly important element of transportation analysis and is an integral part of any AMS data hub. The common visualization tools used in the 7 steps are QGIS and NeXTA
 
