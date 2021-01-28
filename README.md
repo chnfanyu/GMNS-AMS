@@ -39,9 +39,9 @@ The public transit agencies publish the open public transit data in [GTFS](https
 The net2cell is an open-source tool for expanding GMNS macro-network to mesoscopic and microscopic resolution. It aims to unify transportation modeling data in the same format for the more effective integration of analysis modeling and simulation across resolutions.
 
 The analysis tools of different resolution networks are as follows: 
--Micro: These models are generally simulation-based and effective in replicating individual driver behavior, complex geometric configurations, and advanced features of traffic control devices.
--Macro: These include sketch-planning tools, regional/statewide TDMs, macroscopic simulation models, regional air quality models, freight models, etc.
--Meso: These include most DTA models and mesoscopic simulation models
+- Micro: These models are generally simulation-based and effective in replicating individual driver behavior, complex geometric configurations, and advanced features of traffic control devices.
+- Macro: These include sketch-planning tools, regional/statewide TDMs, macroscopic simulation models, regional air quality models, freight models, etc.
+- Meso: These include most DTA models and mesoscopic simulation models
 
 The difference between macro and meso network: 
 
