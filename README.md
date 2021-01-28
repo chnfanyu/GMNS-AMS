@@ -3,7 +3,7 @@
 
 
 
-The continuous flow of data in the AMS-GMNS modeling procedure:
+The continuous flow of data in the GMNS-AMS modeling procedure:
 
 Step | Description | Software | Input Files | Output Files 
 ------------ | ------------- | ------------- | ------------- | -------------
