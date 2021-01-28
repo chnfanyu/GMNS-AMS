@@ -4,6 +4,8 @@
 
 **GMNS**: The General Modeling Network Specification ([GMNS](https://github.com/zephyr-data-specs/GMNS)) defines a common human and machine-readable format for sharing routable road network files. It is designed to be used in multi-modal static and dynamic transportation planning and operations models.
 
+**AMS**:  
+
 
 The continuous flow of data in the GMNS-AMS modeling procedure:
 
