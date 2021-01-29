@@ -20,7 +20,7 @@ Step | Description | Software | Input Files | Output Files
 4 | Zone-to-zone travel demand | [grid2demand](https://github.com/asu-trans-ai-lab/grid2demand) | Node.csv, Link.csv, Poi.csv | Demand.csv, Poi_trip_rate.csv, Zone.csv, Accessibility.csv 
 5 | Traffic signal for timing | Signal2timing (In development), [Sigma-X](https://github.com/milan1981/Sigma-X) | Node.csv, Link.csv | Timing.csv 
 6 | AMS simulation | [A/B Street](https://github.com/dabreegster/abstreet), [DTALite](https://github.com/asu-trans-ai-lab/DTALite) | Demand.csv, Node.csv, Link.csv | Agent.csv, Link_performance.csv 
-7 | Visualization | QGIS, [NeXTA](https://github.com/asu-trans-ai-lab/NeXTA-GMNS) | Node.csv, Link.csv, Movement.csv, Zone.csv, Demand.csv | - - 
+7 | Visualization | [QGIS](https://www.qgis.org/en/site/), [NeXTA](https://github.com/asu-trans-ai-lab/NeXTA-GMNS) | Node.csv, Link.csv, Movement.csv, Zone.csv, Demand.csv | - - 
 
 
 
