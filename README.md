@@ -13,7 +13,7 @@ The continuous flow of GMNS-AMS modeling:
 
 Step | Description | Software | Input Files | Output Files 
 ------------ | ------------- | ------------- | ------------- | -------------
-0 | OSM data download| [Open Street Map(OSM)](https://www.openstreetmap.org/#map=14/47.6573/-122.3252)) | - - | Map.osm  
+0 | OSM data download| [Open Street Map(OSM)](https://www.openstreetmap.org/#map=14/47.6573/-122.3252) | - - | Map.osm  
 1 | Convert OSM data to GMNS | [OSM2GMNS](https://github.com/asu-trans-ai-lab/OSM2GMNS) | Map.osm | Node.csv, Link.csv, poi.csv 
 2 | Convert GTFS data to GMNS | [GTFS2GMNS](https://github.com/asu-trans-ai-lab/GTFS2GMNS) | Open transit data GTFS| Node.csv, Link.csv, poi.csv 
 3 | Expand macroscopic network data to micro, meso | [net2cell](https://github.com/asu-trans-ai-lab/net2cell) | Node.csv, Link.csv | Meso and micro networks in node.csv and link.csv 
