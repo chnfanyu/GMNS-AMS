@@ -82,7 +82,7 @@ The software package is still in development. The output is movement.csv and can
 
 A mesoscopic DTA engine called DTALite can be run directly within NeXTA. DTALite is a mesoscopic simulation-assignment framework that uses a computationally simple but theoretically rigorous traffic queuing model in its simulation engine. The DTALite can be executed after obtaining the demand file from grid2demand.
 
-The ASU Trans+AI Lab collaborates with the development team of A/B Street closely for improving the software efficience.
+The ASU Trans+AI Lab collaborates with the development team of A/B Street closely for improving the software efficiency.
 
 A/B Street: 
 ![evaluating_impacts](https://github.com/chnfanyu/abstreet/blob/master/book/evaluating_impacts.gif)
